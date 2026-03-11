@@ -1,32 +1,65 @@
-# cybersecurity-learning_labs
-# Cybersecurity Learning Portfolio
+# Cybersecurity Hands-on Labs
 
-Hi, I am learning cybersecurity and documenting my practice.
+This repository contains beginner-level cybersecurity labs performed while learning security tools and security concepts.
 
-## Courses Completed
+The labs demonstrate practical understanding of network scanning, packet analysis, vulnerability assessment, log analysis and password security.
 
-Google Cybersecurity Professional Certificate
+--------------------------------------------------
 
-GUVI HCL Cybersecurity Program (in progress)
+## Tools Used
 
-## Skills Learned
+- Nmap – Network scanning and service discovery
+- Wireshark – Network packet analysis
+- Nessus – Vulnerability scanning
+- Splunk – Log analysis and security monitoring
+- John the Ripper – Password cracking tool
+- Linux Bash – Command line operations
 
-Operating Systems, Applications and Hardware relationship
+--------------------------------------------------
 
-Graphical User Interface vs Command Line Interface
+## Hands-on Labs Included
 
-Linux file system navigation using Bash
+### Network Security Labs
+- Basic Network Scanning using Nmap
+- Packet Capture and Analysis using Wireshark
 
-SQL queries to retrieve information from databases
+### Security Monitoring and Vulnerability Labs
+- Vulnerability Scanning using Nessus
+- Log Analysis using Splunk
 
-Python basics for cybersecurity
+### Password and Web Security Labs
+- Password Cracking using John the Ripper
+- Basic Web Security Testing
 
-Regular expressions for extracting data
+--------------------------------------------------
 
-Debugging Python code
+## Skills Practiced
 
-Incident response process (Containment, Eradication, Recovery)
+- Network reconnaissance
+- Packet analysis
+- Vulnerability identification
+- Log investigation
+- Password security analysis
+- Linux command line usage
 
-Network packet analysis
+--------------------------------------------------
 
-SIEM queries for security investigation
+## Repository Structure
+
+network-security-labs.md  
+security-analysis-labs.md  
+web-and-password-labs.md  
+
+Each file contains detailed lab steps, commands used and observations.
+
+--------------------------------------------------
+
+## Learning Source
+
+The labs were performed while learning cybersecurity concepts through training programs and practical exercises.
+
+--------------------------------------------------
+
+## Goal
+
+To build practical cybersecurity skills and demonstrate hands-on experience with commonly used security tools.
