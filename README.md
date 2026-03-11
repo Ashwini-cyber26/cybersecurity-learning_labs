@@ -7,7 +7,7 @@ Hi, I am learning cybersecurity and documenting my practice.
 
 Google Cybersecurity Professional Certificate
 
-GUVI HCL Cybersecurity Program
+GUVI HCL Cybersecurity Program (in progress)
 
 ## Skills Learned
 
